@@ -1,4 +1,4 @@
-# WeLoveMovies Frontend Application
+# WeLoveMovies Frontend Application -- PROVIDED BY THINKFUL
 
 This is the Front End Application for the WeLoveMovies project. Follow the instructions below.
 
